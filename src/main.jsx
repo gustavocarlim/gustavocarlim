@@ -108,7 +108,7 @@ const HeroSection = () => (
 const ProfileSection = () => (
   <section className="statement wrap" id="perfil">
     <p className="section-number">01 / PERFIL</p>
-    <h2>Visão ampla para entregar<br />produtos <em>consistentes.</em></h2>
+    <h2>Visão ampla para entregar<br /> produtos <em>consistentes.</em></h2>
     <p>Transito entre desenvolvimento web de alta performance, sistemas robustos em Java/Spring e manutenção técnica de hardware. Essa perspectiva me ajuda a transformar requisitos complexos em experiências úteis, com atenção à arquitetura, qualidade e operação real.</p>
   </section>
 );
